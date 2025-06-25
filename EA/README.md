@@ -1,8 +1,3 @@
----
-title: 'Task one : feature proposal'
-
----
-
 # Task one : feature proposal
 
 > As a junior Software Engineer on College Football game, come up with a new feature to add 
