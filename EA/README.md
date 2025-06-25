@@ -104,7 +104,8 @@ so in the sims there are always aliens  or creatures like death and gosths poppi
 > - we'd have to find custom behaviours for all those characters 
 > - make some rules regarding their caracteristics and behaviours like death should not be able to kill anyone.
 
-![image](https://hackmd.io/_uploads/BJAq8M_Exe.png)
+![image](https://github.com/user-attachments/assets/2a34ed1c-b27c-40a9-9819-63a5e1fc90c3)
+
 
 # Task 4 : ticket
 > For this task we received a ticket stating that when an item is removed it's notactually removed from the inventory but the inventory's quantity is 0.
@@ -260,4 +261,5 @@ Price: 3
 ````
 perfect exactly what we wanted and it doesn't disrupt the rest
 
-![image](https://hackmd.io/_uploads/rJyBKDt4ex.png)
+![image](https://github.com/user-attachments/assets/d0650e7d-953e-4d86-bda0-bb937c855fb1)
+
